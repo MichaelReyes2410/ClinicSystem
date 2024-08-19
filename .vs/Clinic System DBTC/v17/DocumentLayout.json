@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Michael Jeff\\Downloads\\Clinic System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21F64945-AE92-4FFA-8E16-2301B9722E83}|Clinic System DBTC\\Clinic System DBTC.vbproj|c:\\users\\michael jeff\\downloads\\clinic system\\clinic system dbtc\\frm_patientlogbookadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{21F64945-AE92-4FFA-8E16-2301B9722E83}|Clinic System DBTC\\Clinic System DBTC.vbproj|solutionrelative:clinic system dbtc\\frm_patientlogbookadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F64945-AE92-4FFA-8E16-2301B9722E83}|Clinic System DBTC\\Clinic System DBTC.vbproj|C:\\Users\\Michael Jeff\\Downloads\\Clinic System\\clinic system dbtc\\frm_patientlogbookadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{21F64945-AE92-4FFA-8E16-2301B9722E83}|Clinic System DBTC\\Clinic System DBTC.vbproj|solutionrelative:clinic system dbtc\\frm_patientlogbookadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F64945-AE92-4FFA-8E16-2301B9722E83}|Clinic System DBTC\\Clinic System DBTC.vbproj|C:\\Users\\Michael Jeff\\Downloads\\Clinic System\\clinic system dbtc\\frm_addlogform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{21F64945-AE92-4FFA-8E16-2301B9722E83}|Clinic System DBTC\\Clinic System DBTC.vbproj|solutionrelative:clinic system dbtc\\frm_addlogform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F64945-AE92-4FFA-8E16-2301B9722E83}|Clinic System DBTC\\Clinic System DBTC.vbproj|C:\\Users\\Michael Jeff\\Downloads\\Clinic System\\clinic system dbtc\\frm_addlogform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{21F64945-AE92-4FFA-8E16-2301B9722E83}|Clinic System DBTC\\Clinic System DBTC.vbproj|solutionrelative:clinic system dbtc\\frm_addlogform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F64945-AE92-4FFA-8E16-2301B9722E83}|Clinic System DBTC\\Clinic System DBTC.vbproj|C:\\Users\\Michael Jeff\\Downloads\\Clinic System\\clinic system dbtc\\frm_addreportform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{21F64945-AE92-4FFA-8E16-2301B9722E83}|Clinic System DBTC\\Clinic System DBTC.vbproj|solutionrelative:clinic system dbtc\\frm_addreportform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F64945-AE92-4FFA-8E16-2301B9722E83}|Clinic System DBTC\\Clinic System DBTC.vbproj|C:\\Users\\Michael Jeff\\Downloads\\Clinic System\\clinic system dbtc\\frm_addstudentrecord.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{21F64945-AE92-4FFA-8E16-2301B9722E83}|Clinic System DBTC\\Clinic System DBTC.vbproj|solutionrelative:clinic system dbtc\\frm_addstudentrecord.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F64945-AE92-4FFA-8E16-2301B9722E83}|Clinic System DBTC\\Clinic System DBTC.vbproj|C:\\Users\\Michael Jeff\\Downloads\\Clinic System\\clinic system dbtc\\frm_timeinout.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{21F64945-AE92-4FFA-8E16-2301B9722E83}|Clinic System DBTC\\Clinic System DBTC.vbproj|solutionrelative:clinic system dbtc\\frm_timeinout.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F64945-AE92-4FFA-8E16-2301B9722E83}|Clinic System DBTC\\Clinic System DBTC.vbproj|C:\\Users\\Michael Jeff\\Downloads\\Clinic System\\clinic system dbtc\\frm_timeinout.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{21F64945-AE92-4FFA-8E16-2301B9722E83}|Clinic System DBTC\\Clinic System DBTC.vbproj|solutionrelative:clinic system dbtc\\frm_timeinout.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F64945-AE92-4FFA-8E16-2301B9722E83}|Clinic System DBTC\\Clinic System DBTC.vbproj|C:\\Users\\Michael Jeff\\Downloads\\Clinic System\\clinic system dbtc\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{21F64945-AE92-4FFA-8E16-2301B9722E83}|Clinic System DBTC\\Clinic System DBTC.vbproj|solutionrelative:clinic system dbtc\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F64945-AE92-4FFA-8E16-2301B9722E83}|Clinic System DBTC\\Clinic System DBTC.vbproj|C:\\Users\\Michael Jeff\\Downloads\\Clinic System\\clinic system dbtc\\frm_userdashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{21F64945-AE92-4FFA-8E16-2301B9722E83}|Clinic System DBTC\\Clinic System DBTC.vbproj|solutionrelative:clinic system dbtc\\frm_userdashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F64945-AE92-4FFA-8E16-2301B9722E83}|Clinic System DBTC\\Clinic System DBTC.vbproj|C:\\Users\\Michael Jeff\\Downloads\\Clinic System\\clinic system dbtc\\frm_userdashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{21F64945-AE92-4FFA-8E16-2301B9722E83}|Clinic System DBTC\\Clinic System DBTC.vbproj|solutionrelative:clinic system dbtc\\frm_userdashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_PatientLogBookAdmin.vb",
+              "DocumentMoniker": "C:\\Users\\Michael Jeff\\Downloads\\Clinic System\\Clinic System DBTC\\frm_PatientLogBookAdmin.vb",
+              "RelativeDocumentMoniker": "Clinic System DBTC\\frm_PatientLogBookAdmin.vb",
+              "ToolTip": "C:\\Users\\Michael Jeff\\Downloads\\Clinic System\\Clinic System DBTC\\frm_PatientLogBookAdmin.vb",
+              "RelativeToolTip": "Clinic System DBTC\\frm_PatientLogBookAdmin.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-11T08:42:29.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_PatientLogBookAdmin.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Michael Jeff\\Downloads\\Clinic System\\Clinic System DBTC\\frm_PatientLogBookAdmin.vb",
+              "RelativeDocumentMoniker": "Clinic System DBTC\\frm_PatientLogBookAdmin.vb",
+              "ToolTip": "C:\\Users\\Michael Jeff\\Downloads\\Clinic System\\Clinic System DBTC\\frm_PatientLogBookAdmin.vb [Design]",
+              "RelativeToolTip": "Clinic System DBTC\\frm_PatientLogBookAdmin.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-11T08:42:27.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frm_AddReportForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Michael Jeff\\Downloads\\Clinic System\\Clinic System DBTC\\frm_AddReportForm.vb",
+              "RelativeDocumentMoniker": "Clinic System DBTC\\frm_AddReportForm.vb",
+              "ToolTip": "C:\\Users\\Michael Jeff\\Downloads\\Clinic System\\Clinic System DBTC\\frm_AddReportForm.vb [Design]",
+              "RelativeToolTip": "Clinic System DBTC\\frm_AddReportForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-11T08:42:13.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frm_AddStudentRecord.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Michael Jeff\\Downloads\\Clinic System\\Clinic System DBTC\\frm_AddStudentRecord.vb",
+              "RelativeDocumentMoniker": "Clinic System DBTC\\frm_AddStudentRecord.vb",
+              "ToolTip": "C:\\Users\\Michael Jeff\\Downloads\\Clinic System\\Clinic System DBTC\\frm_AddStudentRecord.vb [Design]",
+              "RelativeToolTip": "Clinic System DBTC\\frm_AddStudentRecord.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-11T08:42:09.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frm_AddLogForm.vb",
+              "DocumentMoniker": "C:\\Users\\Michael Jeff\\Downloads\\Clinic System\\Clinic System DBTC\\frm_AddLogForm.vb",
+              "RelativeDocumentMoniker": "Clinic System DBTC\\frm_AddLogForm.vb",
+              "ToolTip": "C:\\Users\\Michael Jeff\\Downloads\\Clinic System\\Clinic System DBTC\\frm_AddLogForm.vb",
+              "RelativeToolTip": "Clinic System DBTC\\frm_AddLogForm.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-11T07:00:31.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Michael Jeff\\Downloads\\Clinic System\\Clinic System DBTC\\Form1.vb",
+              "RelativeDocumentMoniker": "Clinic System DBTC\\Form1.vb",
+              "ToolTip": "C:\\Users\\Michael Jeff\\Downloads\\Clinic System\\Clinic System DBTC\\Form1.vb [Design]",
+              "RelativeToolTip": "Clinic System DBTC\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-11T04:04:19.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frm_AddLogForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Michael Jeff\\Downloads\\Clinic System\\Clinic System DBTC\\frm_AddLogForm.vb",
+              "RelativeDocumentMoniker": "Clinic System DBTC\\frm_AddLogForm.vb",
+              "ToolTip": "C:\\Users\\Michael Jeff\\Downloads\\Clinic System\\Clinic System DBTC\\frm_AddLogForm.vb [Design]",
+              "RelativeToolTip": "Clinic System DBTC\\frm_AddLogForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-11T04:01:15.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frm_UserDashboard.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Michael Jeff\\Downloads\\Clinic System\\Clinic System DBTC\\frm_UserDashboard.vb",
+              "RelativeDocumentMoniker": "Clinic System DBTC\\frm_UserDashboard.vb",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\Clinic System DBTC\\Clinic System DBTC\\frm_UserDashboard.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\DELL\\Downloads\\Clinic System DBTC\\Clinic System DBTC\\frm_UserDashboard.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-11T04:01:15.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frm_TimeInOut.vb",
+              "DocumentMoniker": "C:\\Users\\Michael Jeff\\Downloads\\Clinic System\\Clinic System DBTC\\frm_TimeInOut.vb",
+              "RelativeDocumentMoniker": "Clinic System DBTC\\frm_TimeInOut.vb",
+              "ToolTip": "C:\\Users\\Michael Jeff\\Downloads\\Clinic System\\Clinic System DBTC\\frm_TimeInOut.vb",
+              "RelativeToolTip": "Clinic System DBTC\\frm_TimeInOut.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-11T04:01:15.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frm_TimeInOut.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Michael Jeff\\Downloads\\Clinic System\\Clinic System DBTC\\frm_TimeInOut.vb",
+              "RelativeDocumentMoniker": "Clinic System DBTC\\frm_TimeInOut.vb",
+              "ToolTip": "C:\\Users\\Michael Jeff\\Downloads\\Clinic System\\Clinic System DBTC\\frm_TimeInOut.vb [Design]",
+              "RelativeToolTip": "Clinic System DBTC\\frm_TimeInOut.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-11T04:01:15.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frm_UserDashboard.vb",
+              "DocumentMoniker": "C:\\Users\\Michael Jeff\\Downloads\\Clinic System\\Clinic System DBTC\\frm_UserDashboard.vb",
+              "RelativeDocumentMoniker": "Clinic System DBTC\\frm_UserDashboard.vb",
+              "ToolTip": "C:\\Users\\Michael Jeff\\Downloads\\Clinic System\\Clinic System DBTC\\frm_UserDashboard.vb",
+              "RelativeToolTip": "Clinic System DBTC\\frm_UserDashboard.vb",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAswF8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-11T04:01:15.468Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

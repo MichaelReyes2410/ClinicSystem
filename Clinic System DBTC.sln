@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Clinic System DBTC", "Clinic System DBTC\Clinic System DBTC.vbproj", "{21F64945-AE92-4FFA-8E16-2301B9722E83}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Clinic System Installer", "Clinic System Installer\Clinic System Installer.vdproj", "{6A872868-138D-41A1-84E7-8716D7F0B604}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21F64945-AE92-4FFA-8E16-2301B9722E83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21F64945-AE92-4FFA-8E16-2301B9722E83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21F64945-AE92-4FFA-8E16-2301B9722E83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21F64945-AE92-4FFA-8E16-2301B9722E83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A872868-138D-41A1-84E7-8716D7F0B604}.Debug|Any CPU.ActiveCfg = Debug
+		{6A872868-138D-41A1-84E7-8716D7F0B604}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9CEB5A5-C996-46D4-BD47-6C1C587EFD6D}
+	EndGlobalSection
+EndGlobal
